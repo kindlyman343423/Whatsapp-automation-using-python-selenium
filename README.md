@@ -7,6 +7,10 @@ Requirements:
 2. Update chrome to latest version
 3. Download chrome webdriver
 
+To run the project : 
+1. Firstly update the contact list of 'contacts.csv' file ( the contact name should be same as it is saved in mobile)
+2. Run WhatsApp.py  ( python WhatsApp.py)
+
 After running the code:
 1. Wait till the whatsapp web page opens.
 2. Now scan the code shown at the page using whatsapp installed in mobile.
