@@ -16,7 +16,6 @@ This python program will read the names of contacts availabe in 'contacts.csv' f
 2. Now scan the code shown at the page using whatsapp installed in mobile.
 3. Once the whatsapp web page is loaded compeletely now scroll down the contacts list area and it will automatically send the msg to all the contacts available in the 'contacts.csv' file
 
-## Author:
-## <a href="http://rajanyadav.me/">Rajan Yadav</a>
-
+## Author: <a href="http://rajanyadav.me/">Rajan Yadav</a>
+ 
 ## Endorse me at LinkedIn if this project was helpful. [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rajanyadav857/)
